@@ -1,0 +1,71 @@
+.heading-1{
+    padding-bottom: 50px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #004080;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+section, footer {
+    background-color:
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+    color: #004080;
+}
+p {
+    color: grey;
+    font-weight: 400;
+    font-size: larger;
+}
+.soccer-image {
+    max-width: 100%;
+    height: auto;
+}
+footer{
+    background-color: black;
+    color:#fff;
+}
+
+h1 {
+    text-align: center;
+    color:lemonchiffon;
+ }
+ body{
+    background-color:grey;
+    color:rgb(209, 202, 202)43;
+}
+ p{
+    font-style: oblique;
+    color: black;
+}
+
+ li{
+    font-style: initial;
+    font-weight: bolder;
+ }
+
+ h3{
+    color:white;
+ }
+ img{
+    border-radius: 50px;
+    position: absolute;
+    top:430px;
+    right:100px;
+ }
